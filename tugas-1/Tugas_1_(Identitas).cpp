@@ -1,3 +1,4 @@
+//1. Buatlah sebuah program Bahasa C yang menampilkan NIM, NAMA dan JURUSAN Anda di layar!
 #include <stdio.h>
 
 int main()
