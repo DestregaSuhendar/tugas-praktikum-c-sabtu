@@ -2,9 +2,6 @@
 #include <windows.h>
 
 int main () {
- char ulangi = 'y';
-	
-
 	
 	int m,c,c2,c3,c4,wp,kp,nt;
 	
